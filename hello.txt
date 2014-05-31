@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Master branch change.
+=======
+Feature line change.
+>>>>>>> feature_1
 More branching
